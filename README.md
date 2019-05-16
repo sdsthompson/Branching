@@ -1,6 +1,6 @@
 ## Branching
 
-This will last ways to branch, and notes on branching, and commands.
+This will list ways to branch, and notes on branching, and commands.
 
 `git branch` - list branches, highlighting the one you're on.
 
